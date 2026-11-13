@@ -4,6 +4,10 @@ Skill do [Claude Code](https://code.claude.com/docs/en/skills) com 100 combinaç
 
 Serve para escolher cores de site, painel, app, logo, banner, apresentação ou vídeo quando não há um design system definido.
 
+![As 100 paletas](examples/todas.png)
+
+Veja pedidos de exemplo, a paleta escolhida e o contraste de cada papel em [EXAMPLES.md](EXAMPLES.md).
+
 ## Instalação
 
 ```bash
